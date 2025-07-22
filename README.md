@@ -1,2 +1,2 @@
 # MSGDANet
-Multi-Segmentation Guided Deep Attention Network
+Multi-Lesion Segmentation Guided Deep Attention Network for automated detection of diabetes retinopathy
